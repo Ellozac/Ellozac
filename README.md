@@ -1,8 +1,9 @@
 # $ cat /home/ellozac/readme.md 
     
 -- [Checkout My Website](zacstuff.com)  
-          
+<p align="center">
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ellozac)](https://github.com/anuraghazra/github-readme-stats)  
+</p>
           
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ellozac)](https://github.com/anuraghazr/github-readme-stats)
 <!--
