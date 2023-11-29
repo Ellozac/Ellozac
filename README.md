@@ -4,13 +4,13 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ellozac&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ellozac&show_icons=true&theme=transparent"/>
 </div>
 
 <br />
-#gh-dark-mode-only
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ellozac&show_icons=true&theme=dark-mode-only"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ellozac&show_icons=true&theme=transparent"/>
 </div>
 
 
