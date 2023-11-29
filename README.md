@@ -1,4 +1,4 @@
-#$ cat /home/ellozac/readme.md 
+# $ cat /home/ellozac/readme.md 
     
 -- [Checkout My Website](zacstuff.com)  
           
