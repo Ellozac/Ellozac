@@ -1,9 +1,9 @@
-~/Ellozac/ 
-
+#```bash $ cat /home/ellozac/readme.md``` 
+    
 -- [Checkout My Website](zacstuff.com)  
-
+          
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ellozac)](https://github.com/anuraghazra/github-readme-stats)  
-
+          
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ellozac)](https://github.com/anuraghazr/github-readme-stats)
 <!--
 **Ellozac/Ellozac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
