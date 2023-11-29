@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
     <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white">
     <br>
-    <a href="zacstuff.com">zacstuff.com</a>
+    <a href="http://zacstuff.com">zacstuff.com</a>
 </div>
 
 <!--
