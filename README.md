@@ -2,7 +2,7 @@
 <div align="center">
     <a href="zacstuff.com">zacstuff.com</a>
 </div>
--- [Checkout My Website](zacstuff.com)  
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ellozac&show_icons=true&theme=radical"/>
 </div>
