@@ -5,13 +5,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ellozac&show_icons=true&theme=dark"/>
 </div>
 
-<br />
+<br/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ellozac&show_icons=true&theme=dark"/>
 </div>
 
-
+<br/>
 <div align="center">
     <img src="https://img.shields.io/badge/-Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white">
     <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white">
